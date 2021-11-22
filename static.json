@@ -1,11 +1,4 @@
 {
     "root": "/",
-    "clean_urls": true,
-    "https_only": true,
     "error_page": "404.html",
-    "headers": {
-        "/**": {
-            "Access-Control-Allow-Origin": "*"
-        }
-    }
 }
